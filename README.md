@@ -19,7 +19,7 @@ _Section 1: Python programming basics_
 
 ## Day2:
 - Functions
-- Lambda FUnction
+- Lambda Function
 - CLasses 
 - Objects
 
